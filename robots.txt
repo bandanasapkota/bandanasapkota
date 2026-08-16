@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bandanasapkota.com.np/sitemap.xml
